@@ -1,0 +1,10 @@
+Amanda Jones 45 150000 Y CA
+John Brown 23 30000 N AZ
+Jenny Diaz 25 200000 Y NY
+David Garcia 36 60000 N FL
+Ellen Smith 28 750000 N CA
+Marco Wiliams 20 10000 N NM
+Tim Lee 59 500000 N WA
+Angel Rodriguez 35 90000 N GA
+Emily Johnson 60 130000 N AZ
+Pedro Lopez 41 180000 Y CA
